@@ -1,0 +1,9 @@
+Package: com.flobul.publicationme
+Name: PublicationForMe
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Send publication notifications from the command line
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Author: Flobul <flobul.jeedom@gmail.com>
+Section: Tweaks
